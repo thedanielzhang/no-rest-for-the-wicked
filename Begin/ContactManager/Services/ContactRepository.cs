@@ -23,11 +23,11 @@ namespace ContactManager.Services
                     {
                         new Contact
                         {
-                            Id = 1, Name = "Glenn Block"
+                            Id = 1, Name = "Lebron James"
                         },
                         new Contact
                         {
-                            Id = 2, Name = "Dan Roth"
+                            Id = 2, Name = "Kyrie Irving"
                         }
                     };
 
